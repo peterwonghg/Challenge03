@@ -94,3 +94,13 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 Task ac07jc01
 An if else statement is added to confirm the validated prompts that enables the generatePassword function.
+
+### References
+
+JavaScript Password Generator: https://www.google.com/search?q=javascript+password+generator&oq=javascript+password+generator&aqs=chrome..69i57j0i512l6j0i22i30l3.7020j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:4ccfc666,vid:duNmhKgtcsI
+
+https://www.youtube.com/watch?v=v2jfGo7ztm8 Daniel Vega: Random Password Generator in JavaScript
+
+https://www.youtube.com/watch?v=x4HUaiazDes  Paul Keldsen: Homework Startup Guide – Javascript Password Generator
+
+https://www.youtube.com/watch?v=FNh2JCiFXIg Sam Ngu: Ep1 – Why we shouldn’t use Var in JavaScript | Var vs Let and Const and Scope Explained!
