@@ -1,5 +1,9 @@
 # 03 JavaScript: Password Generator
 
+https://github.com/peterwonghg/Challenge03.git
+
+https://peterwonghg.github.io/Challenge03/
+
 ## ReadMe Context
 The JavaScript is based conceptually from Daniel Vega’s Random Password Generator in JavaScript with the following tweaks:
 1.	Change most of ‘var’ to ‘const’ and ‘let’ as explained in Sam Ngu: Ep1 – Why we shouldn’t use Var in JavaScript | Var vs Let and Const and Scope Explained!
@@ -23,6 +27,7 @@ SO THAT I can create a strong password that provides greater security
 GIVEN I need a new, secure password
 
 ### AC01
+![Password Generator Home Page](./Assets/images/01.png)
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
 Task ac01jc01
